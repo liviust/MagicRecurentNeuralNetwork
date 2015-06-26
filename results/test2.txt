@@ -1,0 +1,13 @@
+[0mcreating an LSTM...[0m	
+[0mmissing seed text, using uniform probability over first character[0m	
+[0m--------------------------[0m	
+der X is-they that player controls and has flying. | Heant, Cload Off  ||E S||  Enchantment | {1}{U} | {2}{U} | Destroy target enchantment.
+Equip {0} ({2}: Attach to target creature.
+Equip {2} | Kithana Desper  ||E S||  Creature  Human | {2}{G} | 1/1 | Whenever another creature dies, chen that creature does, you may pay {2}{R}. If you do, return a card exiled with thir terer and isn't blocked. | Badorzhor Warriou  ||E S||  Artifact Creature  Vedifement | {2} | 1/1 | Forestwalk | Gaeglaw Ghoel  ||E S||  Sorcery | {2}{W} | Destroy target Aura attached of causes are to source player would be plater this turn. | Eyemine Huneral  ||E S||  Sorcery | {X}{W}{W} | Stevend 5 (If this cond is laness onto the battlefield, sacrifice $THIS. Its controller gets +1/+1 and has life.
+At the beginning of your upkeep, you may pay {4}. If you do, put $THIS's mana cost among each creature you control, that player sacrifices a creature.
+{2}{B}: Add {U}{t} to your mana pool.
+{4}, {T}: As land
+{7}: Enchanted creature gets +3/+3. | Grinning Slaspery  ||E S||  Instant | {W} | Counter target spell, $THIS deals 4 damage to target creature or player.
+{3}{W}{W}: $THIS gets +0/+0 until end of turn. | Manalt Savaren  ||E S||  Instant  Dreath | You may say "Wold and gain control of target creature with power 4 or greater. | Masun of Sprinx  ||E S||  Instant | {R} | $THIS deals 2 damage to each opponent. | Fron Houlrnaze  ||E S||  Legendary Creature  Human Wizard | {3}{U}{U} | 2/2 | Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Flaskback {1}{B} (You may cast this card face down and you don, target player discards a card. | Stompe Hysnaton  ||E S||  Instant | {3}{W} | $THIS deals 1 damage to target creature or player equal to the number of +1/+1 counters on it.
+At the beginning of each player's upkeep, that player loses 1 life. | Hobrid Sackets  ||E S||  Creature  Human Nilst | {2}{W} | 2/1 | Morph {3}{R} (You may cast this card face down as a 2/2 creature for {3} Gara combat card. | Serren Cheefer  ||E S||  Legendary Creature  Elderrars | {3}{G} | 3/2 | Morph?Unters beland: Draw a card." Antiling if {2}{R} (It deven any namole, $THIS doesn't untap during its controller's library. | Gusszater Unchallader  ||E S||  Creature  Cecrat Soldier | {W} | 1/1 | $THIS gets +0/+2 for each other creature you control. Equip only as a gravevanted, creatures without flying your opponents losts an Ele-raman. | Auroight Life  ||E S||  Enchantment  Aura | {G} | Enchant creat

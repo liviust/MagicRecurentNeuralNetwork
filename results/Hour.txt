@@ -1,0 +1,649 @@
+[0mcreating an LSTM...[0m
+[0mmissing seed text, using uniform probability over first character[0m
+[0m--------------------------[0m
+der a card.
+
+
+Rend Merinace | Creature  Ooze
+{2}{R}{R}
+0/0
+Shup countarit combat. Then put the activaticy cast cast from a creature you control.
+
+
+Misterist Relagger | Instant
+{1}{B}
+Kicker {3} (You may pay an X/vis Is in you control.
+
+
+Cown-for | Creature  Ooze
+{1}{R}{G}
+1/1
+Sacrifice a creature: Draw a card. You may return a non-Wall creature, $THIS gets +2/+0 until end of turn.
+
+
+Sphere of the Gex | Creature  Elf Warrior
+{3}{G}{G}
+3/6
+When $THIS enters the battlefield, you may search your library for up to two lefteds on the bottom of its owner's library.
+
+
+Eregant | Enchantment
+{B}
+At the beginning of each player's upkeep, if that player has no cards in hand, Samuieacre?1 tie mount still an indestructis on the battlefield. That player discards that card.
+
+
+Evernatoon Brutu | Creature  Cat Warrior
+{1}{W}
+2/4
+Defender
+Whenever $THIS blocks or becomes blocked, it gets +2/+2 until end of turn.
+{T}: Add {B} or {W} to your mana pool.
+
+
+Showering Manus | Instant
+{4}{G}
+Reveal the top four cards of your library. If equipped creature it, counter the first until end of turn.
+
+
+Skychoon Sostain | Enchantment  Aura
+{1}{W}
+Enchant creature
+As long as enchanted creature is blue, it gets +1/+1.
+Equip {2}
+
+
+Etherium of Surge | Instant
+{2}{R}
+$THIS deals X damage to target creature or player.
+
+
+Rumering Orden | Creature  Human Werewolf
+{1}{R}
+0/1
+{T}: Untap enchanted creature.
+{R}{W}: If no lang counters regoner players have target player has $THIS deal 4 damage to him or her.
+
+
+Sandian Borders | Sorcery
+{3}{R}
+Balition gets 6 or more life than a green or more than a creature card, reveal that card, put it onto the battlefield. Then shuffle your library.
+
+
+Eightrifter Mystic | Creature  Goblin Assassin
+{1}{R}{R}
+2/2
+Whenever another artifact or enchantment enters the battlefield, you bay 2 life.
+
+
+Bloodcheer Warrior | Enchantment
+{2}{R}
+{1}: Choose target creature you didn't choos, you can't be the most crea, one six of than cast any of your untap step.
+{3}{B}{G}, Sacrifice $THIS: Each of that player's graveyard, hand, and libryar? white and black is an Basla or an Angel, put all permanents your opponents control costsper until end of turn.
+$THIS attacks each turn if able.
+
+
+Leonint Pyrassingers | Enchantment  Aura
+{1}{G}
+Enchant creature
+Enchanted creature gets +3/+3.
+Whe even target enchantment enters the battlefield, its controller putss from cards and lose the target of a spell or ability.
+
+
+Furced Shambler | Enchantment  Aura
+{U}
+Enchant creature
+Enchanted creature has hexproof and transfing cards from his or her graveyard onto the battlefield. If you do, shuffle your library.
+
+
+Ball of Visiona | Enchantment  Aura
+{1}{U}
+Enchant creature
+Enchanted creature has vigilance as long as you control a blue creature spell has the other named Bragokdane players in the puttexing, that player adds one mana of any color to his or her mana pool of an opponent discards a card for each creature you control.
+Morph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+
+
+Jush Relets | Artifact
+{6}
+When $THIS enters the battlefield, you may search your library for a creature card with converted mana cost X or less and graveyard or white spell.)
+When a card with converted mana cost 4 or less from your graveyard to your hand.)
+
+
+Reverseaker Agon | Vanguard
+Convok {R} (cooles the number of artifactso loses controlled by the player who counters on $THIS. You lose life equal to the high bidd for that player's choice peamated and card and put them into your hand.
+
+
+Ana Baunce | Sorcery
+{2}{R}{R}
+Destroy target artifact, creature spell this turn is dethanend.
+
+
+Birdmonder | Artifact Creature  Myr
+{2}
+1/1
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform $THIS.
+
+
+Distsunter | Instant
+{1}{U}
+Target player draws three cards.
+
+
+Graven Eyepthy | Creature  Goblin Shaman
+{R}
+1/1
+$THIS can't attack or block.
+Equip {3}
+
+
+Husorg | Creature  Human Spellshaper
+{G}
+1/1
+$THIS can't block.
+If a player, where X is the number of creatures each get +2/+1 until end of turn.
+? Target creature gains first strike until end of turn.
+
+
+Disespire Shield | Enchantment
+{2}{R}
+Whenever a tier for each player's untap step.
+
+
+Lightake Tabaree | Legendary Creature  Elf Warrior
+{R}
+0/1
+At the beginning of your upkeep, sacrifice $THIS unless you exile adowing permanents."
+
+
+Mirenton Tide | Creature  Barbarier
+{2}{R/W}
+1/2
+When $THIS enters the battlefield, you may search your library for a land card, put it onto the battlefield and discard three cards and exile them. Then the amount of counter on tapped this turn.
+
+
+Ancient Familiar | Enchantment
+{3}{U}
+When $THIS enters the battlefield, sacrifice it unless you exile another Cleric creatures. That dad wo card into his or her library.
+
+
+Goblin Giant | Creature  Wolf
+{3}{G}{G}
+10/10
+Aincenval ? Remove a time counter from it.
+
+
+Archin Urzon | Enchantment  Aura
+{3}{G}
+Enchant creature
+Prevent all combat damage that would be dealt to and dealt by $THIS this turn.
+
+
+Hatch | Enchantment
+{U}
+Whenever a creature attacks ployer can't canget blocked equal to the number of creature cards in your graveyard. If a player casts a spell, $THIS deals 2 damage to him or her hand.
+
+
+Time Elemental | Sorcery
+{3}{G}{U}
+Target player puts two land cards and put it only into your graveyard. If he or she does, that player loses 3 life.
+{R}: Enchanted creature gets +1/+0 until end of turn.
+
+
+Hypwoof Melix | Sorcery
+{4}{W}{U}
+Return target enchantment card from your graveyard to your hand.
+
+
+Lonam Druid | Creature  Kor Soldier
+{W}
+1/1
+Level up {3}
+
+
+Enchantu of Thua | Enchantment
+{2}{R}
+{2}{G}, Sacrifice a land: Target opponent puts the top six ot..
+Creatures you control have total power 8 or greater activated abilities of suspended card.
+
+
+Rukkaut | Enchantment  Aura
+{1}{W}
+Enchant land
+Whenever enchanted land becomes tapped turn, that player discards that card.
+
+
+Refume the Wilds | Creature  Human Warrior
+{2}{B}
+2/3
+Haste
+{T}: This turn has nemesins are permanent on the battlefield, sacrifice $THIS.
+
+
+Soul Emit | Instant
+{W}
+Target creature you control gains haste until end of turn.
+
+
+Allatam Artisanist | Enchantment  Aura
+{1}{U}{R}
+Enchant land
+Enchanted land is a creature and and controls on its offer with Aunastalk.
+
+
+Magus of Epith | Creature  Human Soldier
+{W}{W}
+2/2
+Banding (Whenever a creature you control dies, you may have $THIS face up.
+As an additional cost to cast $THIS, sacrifice a creature.
+Enchanted creature has "{T}: Put a +1/+1 counter on it.
+
+
+Junge Bombard | Sorcery
+{4}{G}{G}
+Unotary the rest on the bottom of your library.
+
+
+Puriebler Torgune | Sorcery
+{2}{U}{B}
+Put a 1/1 colorless Zenitaice creature until end of turn.
+
+
+Iveabolance | Creature  Moonors
+{2}{U}
+1/4
+{T}: Destroy target artifact or creature with shadow.
+
+
+Thromptorgane Captain | Creature  Human Cleric
+{1}{W}
+1/1
+{1}{W}, {T}: Exile the top card of your library, then shuffle your library.
+
+
+Berovy | Artifact Creature  Soldier Lizard
+{5}{U}
+3/3
+Phasing (This phases in or out before you untap during each of your untap steps. Whenever another permanent becomes the target of a spell or ability to block.
+Equip {1}
+
+
+Dictate of the Mind Fangel | Creature  Illusion
+{1}{U}
+0/3
+Defender (This creature can't attack.)
+{1}{B}, {T}: Each player discards a card.
+
+
+Trigar of the Ancient Blade | Creature  Beast
+{4}{G}{G}{G}
+6/5
+Trample
+At the beginning of the end step, sacrifice $THIS.
+
+
+Sanctuvician | Creature  Human Knight
+{2}{R}{R}
+4/4
+{T}: $THIS deals damage equal to its power to target creature. If that creature is an enchantment, your opponents play with their deck until end of turn.
+
+
+Lochuntasion Witch | Creature  Volse
+{2}{R}
+2/2
+Sacrifice a creature: Target player gains 8, lifeling creatures you control get +1/+1.
+Nonastionle untap attacking creature with converted mana cost 5 or less. Then exile all tep has feveack creature to its owner's hand.
+
+
+Arcbound Fury | Artifact Creature  Beast
+{4}
+4/4
+Defender
+Whenever $THIS attacks, it deals 3 damage to target creature or player.
+
+
+Kjeldoran Eselmage | Creature  Human Rebel
+{1}{W}{W}
+2/3
+{1}: Target Swamp you control.
+Morbit ? When that creature's power and/fiir, you gain X life.
+
+
+Labyrink | Artifact
+{1}
+{1}, {T}, Sacrifice $THIS: Prevent aled combat damage it draw seven cards, then put the exiled cards on the bottom of your library in any order.
+{2}{B}: Regenerate $THIS. (Theer creature enters the battlefield tapped.
+
+
+Ice Aptrentic Defilation | Creature  Ogre Warrior
+{1}{R}{R}
+3/2
+Kicker?3 life: Search your library for a Dragon creature spell, put a 3/b which Vamairar
+{8} as you cast this screvere. Your library for an instant or target creature.
+
+
+Thornscape Guard | Creature  Vampire
+{4}{R}{G}
+5/5
+Hexproof (This creature can't be the target of spells or abilities.)
+Cycling {2} ({2}, Discard this card: Draw a card.)
+
+
+Mystical of Duntstread | Creature  Horror
+{4}{B}{B}
+7/7
+If a Target blackk
+At the beginning of the end step, sacrifice $THIS.
+
+
+Ertaite Temves | Creature  Nephis
+{2}{B}
+0/1
+$THIS can't block unless you gain that much life.)
+Return any number of target creatures you control, gain control of a Human, you may return another creature you control to its owner's hand.
+
+
+Crossmotan Spirit | Creature  Bird Ween
+{2}
+3/1
+During your upkeep, for each creature target the oth cheales.)
+
+
+Sling Fiends | Creature  Wall
+{1}{B}
+1/1
+$THIS doesn't untap during your untap step.
+Enchant creature
+Put a basic sacrificed card and loses all cards to his or her hand from a six lands in the activate only if creatures with base power and toughness 2/3 until end of turn.
+
+
+Evilled Rats | Sorcery
+{2}{R}
+As an additional cost to cast $THIS, sacrifice a creature.
+
+
+Crop Sprite | Instant
+{1}{W}
+Destroy target nonblack creature. It can't be regenerated this turn.
+
+
+Savergerated Weath | Creature  Ogre
+{1}{R}
+1/2
+{T}: Add {G} to your mana pool.
+
+
+Necrog Serpent | Sorcery
+{4}{R}{R}
+Destroy target blocking creature.
+
+
+Thoughts War | Creature  Elemental
+{3}{R}
+4/2
+Morph {2}{W} (You may cast this card was daid a sorcery card and resuned (When you cast this spell, you may reveal the card with its no cand cost {1} less to cast.
+
+
+Fiere Sliver | Instant
+{W}{U}{B}
+Put two 1/1 white Soldier creature tokens onto the battlefield.
+
+
+Pitcornage | Creature  Insect
+{2}{B}{B}
+3/3
+Whenever you cast a Spirit or Arcane spell, you may put a 2/2 black Zombie creature token onto the battlefield.
+
+
+Struunderbon Plating | Creature  Merfolk Wizard
+{B}{U}{B}
+3/3
+Creatures you control have vigilance.
+
+
+Venchonous Vour | Creature  Faerie Soldier
+{3}{U}
+2/3
+When $THIS enters the battlefield, target creature gets -X/-X until end of turn, where X is the number of lands onceronged this way.
+
+
+Wondfid Runes | Instant
+{1}{R}
+Sacrifice a nonblack
+{3}{W}: Move any 1 lege creature types of his or her library. Put a higher counters on $THIS.
+Enchanted creature has "{T}: Add two mana of any one counter on it.
+{1}{R}, Remove a delack card duren equal to the life lost to another creature. Activate this ability only once each fing counter removed this way.
+
+
+Removepack Imp | Creature  Beast
+{3}{G}{G}
+2/3
+Other Shamas
+(When this enters the battlefield, sacrifice it unless you exile another target creature card from his or her hand onto the battlefield.
+
+
+Tunju Cackanoth | Creature  Human Spellshaper
+{R}{G}
+1/1
+{T}: Add {R} to your mana pool.
+{T}: Tap target creature that's attacking or blocking.
+
+
+Pitierate Mirror | Artifact
+{3}
+{T}: Add {G} or {U} to your mana pool.
+
+
+Roidworl Shambler | Enchantment
+{2}{W}
+As $THIS comes into play, choose a creature type. Exile the rest.
+
+
+Trosia's Chant | Creature  Minotaur
+{4}{R}
+5/2
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Whenever $THIS attacks, it gets +1/+1 until end of turn.)
+Whenever you cast a creature spell, if $THIS is an enchantment, sacrifice this permanent on top of their owners' libraries, onevoken, $THIS deals 2 damage to that player.
+
+
+Arcanage of Hero | Instant
+{W}
+Target creature you control gains trample until end of turn.
+
+
+Arcstor Invocation | Sorcery
+{B}{B}{B}
+Draw four cards as though it didn't have defender.
+
+
+Caldcope of the Firebfinger | Creature  Drake
+{2}{R}
+1/1
+First strike (This creature deals combat damage before creatures without first strike.)
+Whenever a land card is a land card in addition to discares each target nonland permanent, gain lifelink. (Any amount of damage it deals to a creature is enchanted.
+
+
+Mistroghottost Fiend | Sorcery
+{4}{U}{B}
+$THIS deals damage equal to the number of cards in your hand. Each player may pay any amount of mana.
+
+
+Errant Widde | Plane  Zendikari Rangel | Enchantment
+{G}
+Whenever a creature you control attacks, put a -1/-1 counter on target creature.
+
+
+Windskip | Creature  Drake
+{3}{U}
+3/2
+{U}: Regenerate $THIS.
+
+
+Krarklash of Demonity | Creature  Spirit
+{2}{U}
+3/3
+Flying
+When $THIS enters the battlefield, sacrifice it unless you sacrifice any number of creatures.
+
+
+Falndi Guild | Creature  Kor creature  Constelina
+{3}{R}
+3/3
+First strike (This creature deals combat damage to a player, it gets +1/+1 until end of turn for each attacking creature without flanking that creature unless its controller pays {X}, where X is the sacrificed creature's kege typelt an opponent activated this ability for the other can't the number of creatures you control.
+
+
+Halborn Stands | Creature  Manticore
+{1}{R}
+2/2
+Tap an untapped creature you control on top of the exired of his or her library, that player who searched his or her library for each player, and $THIS's owner graveyards.
+
+
+Dismble Mame | Instant
+{4}{G}
+Buyback {2} (You may pay an additional {R} as you cast this spell.)
+$THIS deals 1 damage to each creature.
+
+
+Stone Hate | Creature  Elf Shaman
+{3}{W}{W}
+3/4
+Whenever another creature you control attacks alone, that creature gets +2/+2 until end of turn.
+
+
+Gravely of the Dead | Legendary Artifact Creature  Gioman
+1/2
+Elf a land woud a sing permanent or enchantment if another creature loses all activated abilities of creatures this turn.
+
+
+Deathnial Guild | Legendary Creature  Beast
+{3}{G}{G}
+1/5
+Kicker {C0}: Redeares not creatures you control can't be blocked this turn.
+Overph {G} ({1}{U}: Put a leven of more control.
+{T}: Add {U} to your mana pool.
+{T}, Sacrifice $THIS: Add {B} to your mana pool.
+
+
+Gruul Harbinger | Instant
+{2}{B}
+Target player exiles all cards with the highest converted mana cost.
+
+
+Necotion Sacrace | Creature  Cat
+{2}{W}{W}
+2/5
+At the beginning of each opponent's turn by face up. If the discarding the drewenger, each opponent reveals cards from the top of his or her library until he or she reveals a card of that player's graveyard.
+
+
+Angryshel Invoced | Creature  Merfolk Wizard
+{1}{U}
+1/1
+{1}{R}: $THIS gains first strike until end of turn.
+As long as you have 2 ore less, return it to the battlefield under its owner's control with a -1/-1 counter on it.)
+
+
+Seas's Mumner | Creature  Dwarf Wizard
+{3}{B}
+3/3
+Flying
+Prowes 1 (This creature can't be blocked except by artifact creatures the greature is countered.
+
+
+Void Galeson | Legendary Artifact Creature  Human Drugon creature  Bild
+{1}{B}{B}
+4/1
+When $THIS enters the battlefield, tapped, then shuffle its mana cost if it's a land card. $THIS deals damage to that player equal to its converted mana costs.
+
+
+Hand of Forten | Vanguard
+{3}: Each player reveals the top card of his or her library, replal any number of untal chosecares artifact yourder.) (At the beginning of your end step, return another target creature you control and target opponent and/or players with inte his or her graveyard.
+
+
+Blash Souls | Sorcery
+{2}{W}{W}
+Destroy all creatures. Creatures you control gain first strike until end of turn.
+
+
+Pregar Sentinger | Creature  Centaur Archer
+{W}
+1/1
+{B}{G}, {T}, Sacrifice this creature: Add one mana of any color to your mana pool."
+
+
+Squaldhe Path | Plane  Eldract
+
+
+Megalatian of Futge Trup Hyd Crawler | Enchantment
+{3}{R}{R}
+Whenever you rlung an artifact spell cost {R} less to cast for each Forest you control, creatures that geter times th/e put onto that was saching target creature or shaface destroyed this way additional permanents.
+{R}, Sacrifice a land: Search your library for a land card, put it onto the battlefield tapped, where X is the number of artifact, creature, or land.
+When $THIS leaves the battlefield, return the exiled cards to the battlefield with $THIS dyal damage to target creature or player. You gain 5 life narditact.)
+
+
+Alantal Pistriser | Creature  Zombie Warrior
+{2}{W}{W}
+3/3
+Landwalk
+As long as you control another Funerday, $THIS gets +1/+1 and gains vigalance until end of turn. Untap that creature. Scry 1. (Look at the top card of your library. You may puol.
+
+
+Soul | Instant
+{1}{W}{W}
+Creatures you control get +2/+2 and have flying.
+
+
+Levalina Schhon | Enchantment
+{2}{W}
+At the beginning of the end step, return it to the battlefield under its owner's control with a +1/+1 counter on it.)
+
+
+Sight Due | Creature  Human Soldier
+{1}{W}
+1/1
+Trample
+
+
+Burrentodon Machoment | Creature  Orc
+{3}{R}
+2/3
+{1}{B}, {T}: Target player loses 1 life.
+
+
+Vedall of Mungut | Creature  Zombie Bease
+{4}{B}
+3/4
+Prowess (Whenever you cast a noncreature spell, creatures you control get +3/+2 until end of turn.
+
+
+Thronop, the Kith Honehed | Instant
+{1}{2}{G}
+Each player discards a card.
+
+
+Mounelow | Enchantment
+{2}{G}{G}
+{1}, Sacrifice $THIS: Add one mana of any color to your mana pool.
+Sacrifice another Orced creature: The next X damage that would be dealt to you this turn by effects controller.
+
+
+Merpopise Minion | Creature  Human Warrior
+{2}{G}
+3/2
+Whenever another creature enters the battlefield, you lose 1 life.
+
+
+Pontect Howve | Creature  Spirit Scout
+{2}{R}
+3/1
+When $THIS dies, you may return target creature card with converted mana cost X from target permanent becomes tapped, target creature gets +4/+3 until end of turn.
+
+
+Rallfoal | Creature  Human Wizard
+{U}
+1/1
+Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+{2}: $THIS gets +0/+2 and gains deathtouch
+At the beginning of the end step, return $THIS to its owner's hand. If you can't play up to two basic land cards, reveal them, put them into your hand, then shuffle your library.
+Soulshift 4 (When this creature dies, you pay dave exile the insten. Overard can artifact card in all graveyards with the same name as that card by the next enchanted.)
+
+
+Behemovaling Shadowstle | Creature  Giant Sham
